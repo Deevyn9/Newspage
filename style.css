@@ -313,6 +313,8 @@ main .bottom .bottom__item .item__text-div p {
   }
 
   .nav-links ul li a {
+    font-size: 15px;
+    text-transform: capitalize;
     transition: all 0.5s ease;
   }
 
