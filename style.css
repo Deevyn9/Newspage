@@ -16,6 +16,7 @@
 }
 
 body {
+  background-color: var(--Off-white);
   width: 100vw;
   min-height: 100vh;
   font-family: "Inter", sans-serif;
@@ -330,7 +331,7 @@ main .bottom .bottom__item .item__text-div p {
   }
 
   main button {
-    margin-bottom: 0;
+    margin-bottom: 30px;
   }
 
   .left__bottom-right p {
